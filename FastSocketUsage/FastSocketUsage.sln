@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{998D46F0-587F-4302-AA6F-CC73D4E52E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{6996AF79-FA7F-411D-8781-0D5A45F8B6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoFrameWork", "IoFrameWork\IoFrameWork.csproj", "{365FF16B-C8B2-43A6-81A0-7CAB1FF7C46B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.ProtocolBuffers.ProtocolPackages", "Google.ProtocolBuffers.ProtocolPackages\Google.ProtocolBuffers.ProtocolPackages.csproj", "{C2BABA5E-FE36-457B-AB80-D54F2CC8CEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998D46F0-587F-4302-AA6F-CC73D4E52E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998D46F0-587F-4302-AA6F-CC73D4E52E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998D46F0-587F-4302-AA6F-CC73D4E52E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998D46F0-587F-4302-AA6F-CC73D4E52E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6996AF79-FA7F-411D-8781-0D5A45F8B6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6996AF79-FA7F-411D-8781-0D5A45F8B6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6996AF79-FA7F-411D-8781-0D5A45F8B6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6996AF79-FA7F-411D-8781-0D5A45F8B6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365FF16B-C8B2-43A6-81A0-7CAB1FF7C46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365FF16B-C8B2-43A6-81A0-7CAB1FF7C46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365FF16B-C8B2-43A6-81A0-7CAB1FF7C46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365FF16B-C8B2-43A6-81A0-7CAB1FF7C46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BABA5E-FE36-457B-AB80-D54F2CC8CEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BABA5E-FE36-457B-AB80-D54F2CC8CEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BABA5E-FE36-457B-AB80-D54F2CC8CEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BABA5E-FE36-457B-AB80-D54F2CC8CEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
